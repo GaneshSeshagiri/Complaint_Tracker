@@ -1,0 +1,10 @@
+complaint-tracker/
+│── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   └── complaints.js
+│   ├── config/
+│   │   └── db.js
+│── frontend/
+│   ├── index.html
+│   └── script.js
